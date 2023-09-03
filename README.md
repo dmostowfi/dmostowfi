@@ -14,7 +14,7 @@ The experience, which left me feeling in the dark, motivated me to enroll in und
 I'm an experience designer by trade, and identifying user needs and defining innovative solutions has been my bread and butter throughout my career. But building software systems is about making tradeoffs, so when I'm owning the entire product lifecycle, my goal is to make tradeoffs that optimize both user experience and program efficiency.   
 
 ### 2. Bridging the gap between engineering, design, and product
-Every one of teams has been cross-functional, and whether in tech or non-tech industries, a common thread remains: the source of all friction is lack of understanding. My journey to software engineering began because I wanted to enhance my understanding, but now, I wear all hats. Bridging the gap is extremely important to me because I've experienced firsthand how when different functions come together, magical things will happen.
+Every one of my teams has been cross-functional, and whether in tech or non-tech industries, a common thread remains: the source of all friction is lack of understanding. My journey to software engineering began because I wanted to enhance my understanding, but now, I wear all hats. Bridging the gap is extremely important to me because I've experienced firsthand how when different functions come together, magical things will happen.
 
 ## Relevant Coursework
 1. Intro to Programming (CS-111): Required introductory course for the computer science major/minor track. Covers functional, imperative, and object-oriented programming.
