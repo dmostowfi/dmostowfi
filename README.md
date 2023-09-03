@@ -2,7 +2,7 @@
 
 Why am I here? A brief, yet extremely common, interaction for the tech world pretty much sums it up...
 
-While working as a product manager, I vividly recall one instance where I thought I had come up with an "easy" solution to an unmet user need, until my eng counterpart gave me a timeline far longer than I expected (sounds familiar yet?). "How is that possible!?", I thought. But the truth is (time to be vulnerable), I had no. clue. about the complexity of what I was asking.     
+While working as a product manager, I vividly recall one instance where I thought I had come up with an "easy" solution to an unmet user need, until my eng counterpart gave me a timeline far longer than I expected (sounds familiar yet?). "How is that possible!?", I thought. But the truth is (time to be vulnerable), I. had. no. clue. about the complexity of what I was asking.     
 
 The experience, which left me feeling in the dark, motivated me to enroll in undergraduate computer science classes through Northwestern's McCormick School of Engineering, on top of the 2 master's degrees I was already pursuing. What started as a desire to speak engineering language turned into a real passion to own the full product lifecycle. 
 
