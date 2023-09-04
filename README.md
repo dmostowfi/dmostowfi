@@ -21,7 +21,7 @@ Every one of my teams has been cross-functional, and whether in tech or non-tech
   - Grade earned: A
 2. Data Structures & Algorithms [(CS-214)](https://drive.google.com/file/d/1riDzUiFLU5B3p4NK5gMSQ7cvKDDtP_cX/view?usp=sharing): Teaches the design, implementation, analysis, and proper application of abstract data types, data structures, and their associated algorithms.
   - Grade earned: A
-3. Scalable Software Architectures [(CS-310)](https://www.dropbox.com/s/ltwtt7p91qutv5t/cs310-Syllabus.pdf?dl=0): Studies the architecture of scalable, cloud-native applications. Through hands-on projects, understand how modern software systems are built the tradeoffs in designing and building such systems.
+3. Scalable Software Architectures [(CS-310)](https://www.dropbox.com/s/ltwtt7p91qutv5t/cs310-Syllabus.pdf?dl=0): Studies the architecture of scalable, cloud-native applications. Through hands-on projects, understand how modern software systems are built and the tradeoff considerations in designing and building such systems.
   - Grade earned: A
 
 ## Let's Chat! 
